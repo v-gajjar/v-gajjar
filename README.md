@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Vinay, a UK based software developer with over 7 years of commercial experience. 
 
 <!--
 **v-gajjar/v-gajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
