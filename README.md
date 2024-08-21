@@ -29,7 +29,7 @@ I'm really passionate about upskilling and connecting with others in the Tech co
 
 ## 🌱 Currently Exploring
 
-- John Crickett's 'Build Your Own Google Keep Challenge'
+- John Crickett's 'Build Your Own Google Keep' Challenge Coding Challenge
 - Various courses on Udemy, including one on React.
   
 
