@@ -1,6 +1,6 @@
 # Hi, I'm Vinay! 👋
 
-I am a UK based Full-Stack Software Devleoper with 7+ yeears of industry experience. My journey started with Java but I have since worked with a wide variety of technologies. 
+I am a UK based Full-Stack Software Devleoper with 7+ years of industry experience. My journey started with Java but I have since worked with a wide variety of technologies. 
 
 I'm really passionate about upskilling and connecting with others in the Tech community. 
 
