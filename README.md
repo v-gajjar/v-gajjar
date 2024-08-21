@@ -28,7 +28,7 @@ I'm really passionate about upskilling and connecting with others in the Tech co
 ## 🌱 Currently Exploring
 
 - John Crickett's 'Build Your Own Google Keep Challenge'
-- various courses on Udemy, including one on React.
+- Various courses on Udemy, including one on React.
   
 
 ## 📬 Get in Touch
