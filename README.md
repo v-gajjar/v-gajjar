@@ -6,6 +6,8 @@ I'm really passionate about upskilling and connecting with others in the Tech co
 
 ![v-gajjar's Stats](https://github-readme-stats.vercel.app/api?username=v-gajjar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![](https://komarev.com/ghpvc/?v-gajjar&color=blue)
+
 ## 🚀 About Me
 
 - I'm actively seeking my next Software Developer role.
