@@ -18,7 +18,7 @@ I'm really passionate about upskilling and connecting with others in the Tech co
 - A good coffee. Machu Picchu are my favourite beans.
 - Chocolate. I love white, milk, and dark varieties (up to 70% cocoa content)
 - Pasta. Mac n Cheese is the ULTIMATE comfort food!!
-- Puzzles. My Uncle taught me to solve Sudokus in my teen years. And I'm currently working through my second 1000 puzzle!
+- Puzzles. My Uncle taught me to solve Sudokus in my teen years. And I'm currently working through my second 1000 piece jigsaw puzzle!
 - Sunflowers. During the Pandemic, lots of bright and tall ones dominated the garden.
 - Colour. The world would be a dull place without it!
 
