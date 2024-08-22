@@ -3,6 +3,8 @@
 I am a UK based Full-Stack Software Devleoper with 7+ years of industry experience. My journey started with Java but I have since worked with a wide variety of technologies. 
 I've gained significant experience with Java, JavaScript jQuery, HTML5, CSS and MySQL. As well as these technologies, I've also built and deployed an Android App and iOS App and have also got some recent experience with React and React Native. 
 
+My experience with Java includes using Spring, Hibernate, Maven and JDBC. I've coded using Eclipse, Spring Tool Suite, and recently started using IntelliJ Community Idea for creating a Spring Boot app. I've gained recent experiece using Visual Studio Code for front-end development. 
+
 I'm really passionate about upskilling and connecting with others in the Tech community. 
 
 ![v-gajjar's Stats](https://github-readme-stats.vercel.app/api?username=v-gajjar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
@@ -29,7 +31,7 @@ I'm really passionate about upskilling and connecting with others in the Tech co
 ## Currently Exploring
 
 - John Crickett's 'Build Your Own Google Keep' Challenge Coding Challenge
-- Building a Sudoku Web App in Collboration with Jolene Kearse (<https://github.com/JoleneKearse>)
+- Upskilling in React via a Udemy course. 
   
 
 ## 📬 Get in Touch
