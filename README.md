@@ -3,7 +3,7 @@
 I am a UK based Full-Stack Software Devleoper with 7+ years of industry experience. My journey started with Java but I have since worked with a wide variety of technologies. 
 I've gained significant experience with Java, JavaScript jQuery, HTML5, CSS and MySQL. As well as these technologies, I've also built and deployed an Android App and iOS App and have also got some recent experience with React and React Native. 
 
-My experience with Java includes using Spring, Hibernate, Maven and JDBC. I've coded using Eclipse, Spring Tool Suite, and recently started using IntelliJ Community Idea for creating a Spring Boot app. I've gained recent experiece using Visual Studio Code for front-end development. 
+My experience with Java includes using Spring, Hibernate, Maven and JDBC. I've coded using Eclipse, Spring Tool Suite, and recently started using IntelliJ Idea for creating a Spring Boot app. I've gained recent experiece using Visual Studio Code for front-end development. 
 
 I'm really passionate about upskilling and connecting with others in the Tech community. 
 
@@ -14,6 +14,8 @@ I'm really passionate about upskilling and connecting with others in the Tech co
 - My first experience of programming was with the visual programming language Max MSP, which I was introduced to during my BSc in Music Technology. 
 - I landed my first tech job through fellow volunteers, whilst helping out a local charity shop.
 - Giving back feels good. I've done a few 13 mile bike rides and 10K runs for various charities, and also I volunteered at the 2023 Manchester Tech Festival.
+
+![](https://github.com/v-gajjar/v-gajjar/blob/main/VinylPlayer.gif)
 
 ### To celebrate my 7+ yrs in Software Development, here's 7 things I love:
 
