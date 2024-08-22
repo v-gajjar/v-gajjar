@@ -36,7 +36,7 @@ I'm really passionate about upskilling and connecting with others in the Tech co
 - Upskilling in React via a Udemy course. 
   
 
-## 📬 Get in Touch
+## Get in Touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/vinaygajjar/)
 
