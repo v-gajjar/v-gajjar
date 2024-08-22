@@ -15,10 +15,8 @@ I'm really passionate about upskilling and connecting with others in the Tech co
 - I landed my first tech job through fellow volunteers, whilst helping out a local charity shop.
 - Giving back feels good. I've done a few 13 mile bike rides and 10K runs for various charities, and also I volunteered at the 2023 Manchester Tech Festival.
 
-![](https://github.com/v-gajjar/v-gajjar/blob/main/VinylPlayer.gif)
-
 ### To celebrate my 7+ yrs in Software Development, here's 7 things I love:
-
+![](https://github.com/v-gajjar/v-gajjar/blob/main/VinylPlayer.gif)
 1. Music. My taste is pretty varied, but my absolute favouite genres are Bhangra and UK Garage.
 2. Coffee. 
 3. Chocolate. 
