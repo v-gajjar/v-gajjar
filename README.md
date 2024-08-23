@@ -1,6 +1,6 @@
 ![banner](https://github.com/v-gajjar/v-gajjar/blob/main/banner-image.png)
 
-I am a UK based Full-Stack Software Devleoper with 7+ years of industry experience. My journey started with Java but I have since worked with a wide variety of technologies. 
+I am a UK based Full-Stack Software Developer with 7+ years of industry experience. My journey started with Java but I have since worked with a wide variety of technologies. 
 I've gained significant experience with Java, JavaScript jQuery, HTML5, CSS and MySQL. As well as these technologies, I've also built and deployed an Android App and iOS App and have also got some recent experience with React and React Native. 
 
 My experience with Java includes using Spring, Hibernate, Maven and JDBC. I've coded using Eclipse, Spring Tool Suite, and recently started using IntelliJ Idea for creating a Spring Boot app. I've gained recent experiece using Visual Studio Code for front-end development. 
