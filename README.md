@@ -16,7 +16,8 @@ I'm really passionate about upskilling and connecting with others in the Tech co
 - Giving back feels good. I've done a few 13 mile bike rides and 10K runs for various charities, and also I volunteered at the 2023 and 2024 Manchester Tech Festival events. In October 2024 I joined the development at at Straightforward Job Site as a volunteer.
 
 ### To celebrate my 7+ yrs in Software Development, here's 7 things I love:
-![](https://github.com/v-gajjar/v-gajjar/blob/main/VinylPlayer.gif)
+<img src="https://github.com/v-gajjar/v-gajjar/blob/main/sunflower.jpg" width="200px">
+
 1. Music. My taste is pretty varied, but my absolute favouite genres are Bhangra and UK Garage.
 2. Coffee. 
 3. Chocolate. 
