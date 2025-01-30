@@ -5,7 +5,7 @@ I am a UK based Full-Stack Software Developer with 7+ years of industry experien
 <br />
 This wonderful journney started with Java but I have since worked with a wide variety of technologies:
 <br />
-Java | Spring | Hibernate | JDBC | MySQL | JavaScript | jQuery | CSS3 | HTML5 | React | React Native
+Spring | Hibernate | JDBC | MySQL | JavaScript | jQuery | CSS3 | HTML5 | React | React Native
 <br />
 <br />
 I've coded using the following editors: 
