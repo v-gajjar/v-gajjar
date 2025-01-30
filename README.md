@@ -36,7 +36,7 @@ I'm really passionate about upskilling and connecting with others in the Tech co
 2. Coffee. 
 3. Chocolate. 
 4. Pasta. Mac n Cheese is the ULTIMATE comfort food!!
-5. Puzzles. I've been doing Sudoku puzzles since my teen years, and I've recently completed my second 1000 piece jigsaw puzzle and first 3D jigsaw!
+5. Puzzles. I've been doing Sudoku puzzles since my teen years, and I've recently completed my second 1000 piece jigsaw puzzle and first 3D jigsaw puzzle!
 6. Sunflowers. During the Pandemic, lots of bright and tall ones dominated the garden.
 7. Colour. The world would be a dull place without it!
 
