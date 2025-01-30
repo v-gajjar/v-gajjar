@@ -17,7 +17,7 @@ My career highlights include:
 - designing database tables and RESTful APIs
 - writing and deploying app for Android (using Java) and iOS devices (using Swift)
 
-The crowning glory of my career was leading the front-end development of a large-scale project over several years. 
+The crowning glory of my career so far was leading the front-end development of a large-scale project over several years. 
 
 I'm really passionate about upskilling and connecting with others in the Tech community. 
 
