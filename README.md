@@ -3,7 +3,7 @@
 I am a UK based Full-Stack Software Developer with 7+ years of industry experience. My love for building things started with Lego as a kid, but now I enjoy building software!
 <br />
 <br />
-This wonderful journney started with Java but I have since worked with a wide variety of technologies:
+This wonderful journey started with Java but I have since worked with a wide variety of technologies:
 <br />
 Spring | Hibernate | JDBC | MySQL | JavaScript | jQuery | CSS3 | HTML5 | React | React Native
 <br />
