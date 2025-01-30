@@ -1,4 +1,4 @@
-![banner](https://github.com/v-gajjar/v-gajjar/blob/main/banner-image.png)
+![banner](https://github.com/v-gajjar/v-gajjar/blob/main/banner-image-blue.png)
 
 I am a UK based Full-Stack Software Developer with 7+ years of industry experience. My journey started with Java but I have since worked with a wide variety of technologies. 
 I've gained significant experience with Java, JavaScript jQuery, HTML5, CSS and MySQL. As well as these technologies, I've also built and deployed an Android App and iOS App and have also got some recent experience with React and React Native. 
@@ -13,7 +13,7 @@ I'm really passionate about upskilling and connecting with others in the Tech co
 
 - My first experience of programming was with the visual programming language Max MSP, which I was introduced to during my BSc in Music Technology. 
 - I landed my first tech job through fellow volunteers, whilst helping out a local charity shop.
-- Giving back feels good. I've done a few 13 mile bike rides and 10K runs for various charities, and also I volunteered at the 2023 and 2024 Manchester Tech Festival events. 
+- Giving back feels good. I've done a few 13 mile bike rides and 10K runs for various charities, and also I volunteered at the 2023 and 2024 Manchester Tech Festival events. In October 2024 I joined the development at at Straightforward Job Site as a volunteer.
 
 ### To celebrate my 7+ yrs in Software Development, here's 7 things I love:
 ![](https://github.com/v-gajjar/v-gajjar/blob/main/VinylPlayer.gif)
