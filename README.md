@@ -1,4 +1,4 @@
-![banner](https://github.com/v-gajjar/v-gajjar/blob/main/banner_image_blue.png)
+![banner](https://github.com/v-gajjar/v-gajjar/blob/main/banner_image_green.png)
 
 I am a UK based Full-Stack Software Developer with 7+ years of industry experience. My love for building things started with Lego as a kid, but now I enjoy building software!
 <br />
